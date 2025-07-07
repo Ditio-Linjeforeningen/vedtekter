@@ -1,0 +1,2 @@
+# vedtekter
+Vedtektene til linjeforeningen
