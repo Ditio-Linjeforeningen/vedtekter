@@ -1,6 +1,6 @@
 
 # VEDTEKTER FOR Ditio - linjeforening
-Innhold sist revidert [06.06.25]
+Innhold sist revidert [25.09.25]
 
 ### §1 Foreningens navn
 Foreningens navn er Ditio - linjeforening, videre kalt Ditio.
@@ -81,7 +81,7 @@ Dersom et verv ikke blir fylt under generalforsamlingen kan styret be om fullmak
 vervene.
 
 ### §8 Styret
-Ditio består av et styre på 7 personer. 80% av styret må være semesterregistrerte
+Ditio består av et styre på 8 personer. 80% av styret må være semesterregistrerte
 studenter ved et av SiO sine studiesteder. Minimum 50% av styrets medlemmer må
 være semesterregistrert ved OsloMet. Alle styreverv i Ditio er ulønnet.
 
@@ -109,6 +109,8 @@ Foreningens styre består av følgende roller:
   - Ansvarlig for markedsføring av Ditio på sosiale medier slik som egen
     hjemmeside, Instagram, Facebook og SiO sine sider. Samt ansvar for
     fysisk markedsføring av arrangementer på skolen.
+- Styremedlem
+  - Bistå med diverse oppgaver de får ansvar for under styremøter.
 - Styremedlem
   - Bistå med diverse oppgaver de får ansvar for under styremøter.
 - Styremedlem
