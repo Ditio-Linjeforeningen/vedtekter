@@ -123,10 +123,14 @@ Foreningens styre består av følgende roller:
 - IT- og driftsansvarlig
   - Prosjekt- og domeneansvarlig for nettside til foreningen. Lede
     utvikling og vedlikehold av nevnt side.
-- Arrangementansvarlig
-  - Har hovedansvar for å planlegge gjennomføring av arrangementer som
-    blir planlagt på styremøter. Dette innebærer å delegere oppgaver til
-    arrangement og føre arrangementsrapport etter hvert arrangement.
+- Bedriftskontakt
+  - Ansvarlig for å opprettholde kontakt med IT-bedrifter og andre kommersielle
+    aktører Ditio samarbeider med.
+  - Ansvarlig for å kontakte/finne nye aktuelle IT-bedrifter og relevante
+    kommersielle aktører som Ditio kan samarbeide med.
+  - Ansvarlig for gjennomføring av arrangementer med disse aktørene.
+  - Bedriftskontakt vil vanligvis arrangere bedriftspresentasjoner, workshoper,
+    ekskursjoner eller salg av tjenester til bedrifter(eks: standplass på OsloMet).
 - Mediaansvarlig
   - Ansvarlig for markedsføring av Ditio på sosiale medier slik som egen
     hjemmeside, Instagram, Facebook og SiO sine sider. Samt ansvar for
