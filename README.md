@@ -78,6 +78,10 @@ Det velges nytt styre på generalforsamling. Hvert styremedlem velges for én pe
 av gangen. Et styremedlem kan kun ha ett verv i styret samtidig. Ved valg til nytt styreverv
 anses vedkommende for å ha fratrådt sitt tidligere styreverv.
 
+Som hovedregel kan kun tidligere eller sittende styremedlemmer stille til vervet som leder.
+Dersom ingen tidligere eller sittende styremedlemmer stiller, kan andre medlemmer som er
+til stede på generalforsamlingen stille til valg som leder.
+
 Alle valg ved generalforsamling foretas ved skriftlig votering, dersom det ikke
 fremsettes forslag om annet. Styremedlemmene velges med simpelt flertall, hvis det
 blir likt, skal en ny avstemning avholdes mellom de to kandidatene som fikk flest
