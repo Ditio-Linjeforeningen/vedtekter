@@ -46,6 +46,9 @@ Generalforsamlingen er foreningens øverste organ.
 Generalforsamlingen skal holdes minimum en gang i året, helst i september, men
 innen utgangen av oktober i høstsemesteret.
 
+Generalforsamling skal alltid være på en virkedag. I en generell studieperiode og ikke i en
+konteuke. Dette baserer seg på OsloMet sine beskrivelser på akademisk studentkalender.
+
 Generalforsamling fatter vedtak ved simpelt flertall. Ingen medlemmer har mer enn
 en stemme og stemmegivning kan ikke skje ved fullmakt.
 
