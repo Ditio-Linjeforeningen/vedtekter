@@ -207,8 +207,9 @@ behandlingen, men kan kreves åpnet dersom den saken gjelder krever dette. Krav 
 til å forklare seg overfor styret eller generalforsamlingen før beslutning fattes.
 
 ### §14 Oppløsning
-Foreningen kan oppløses ved at 2/3 av de stemmeberettigede medlemmene på
-generalforsamlingen stemmer for oppløsning. Sak om oppløsning må være meldt inn
+Foreningen kan oppløses ved at 3/4 av de stemmeberettigede medlemmene på
+generalforsamlingen stemmer for oppløsning, og deretter 3/4 flertall ved generalforsamling 5
+til 12 måneder etter den første avstemningen. Sak om oppløsning må være meldt inn
 til ordinære saksfrister i forkant av generalforsamlingen. Ved opphør vil foreningens
 midler og eiendeler bli gitt til en annen egnet studentforening med samme formål,
 som generalforsamlingen bestemmer. Dette skal skje i tråd med norsk lov, forskrifter og gjeldende
