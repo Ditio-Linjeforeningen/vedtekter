@@ -131,8 +131,18 @@ Foreningens styre består av følgende roller:
   - Ansvarlig for markedsføring av Ditio på sosiale medier slik som egen
     hjemmeside, Instagram, Facebook og SiO sine sider. Samt ansvar for
     fysisk markedsføring av arrangementer på skolen.
-- Styremedlem
-  - Bistå med diverse oppgaver de får ansvar for under styremøter.
+- Fagansvarlig
+  - Skal finne og foreslå foredrag til styret. Har hovedansvar for å planlegge og
+    gjennomføre faglige arrangementer som blir vedtatt på styremøter.
+  - Dette innebærer å delegere oppgaver til faglige arrangementer og før
+    arrangementsrapport etter hvert arrangement.
+  - En fagperson hentes inn fra universitet, frivillig organisasjon, tidligere
+    studenter, masterstudenter eller lignende og holder foredrag om faglig
+    relevant stoff.
+  - Faglige arrangementer skal ikke fremme en bedrift, og er ikke en
+    bedriftspresentasjon.
+  - Innebærer samarbeid med bedriftsansvarlig for å unngå rolleblanding og
+    overlapp.
 - Styremedlem
   - Bistå med diverse oppgaver de får ansvar for under styremøter.
 - Styremedlem
