@@ -75,16 +75,25 @@ krever det eller styret finner det nødvendig.
 
 ### §7 Valg
 Det velges nytt styre på generalforsamling. Hvert styremedlem velges for én periode
-av gangen.
+av gangen. Et styremedlem kan kun ha ett verv i styret samtidig. Ved valg til nytt styreverv
+anses vedkommende for å ha fratrådt sitt tidligere styreverv.
 
 Alle valg ved generalforsamling foretas ved skriftlig votering, dersom det ikke
 fremsettes forslag om annet. Styremedlemmene velges med simpelt flertall, hvis det
 blir likt, skal en ny avstemning avholdes mellom de to kandidatene som fikk flest
 stemmer i første runde.
 
-Dersom et verv ikke blir fylt under generalforsamlingen kan styret be om fullmakt til
-å supplere seg selv. Om de ikke får dette kreves ny generalforsamling for å supplere
-vervene.
+Dersom et verv ikke fylles under generalforsamlingen, må generalforsamlingen velge en av
+disse to forslagene:
+1. Styret kan gi ansvaret for vervet til et eksisterende styremedlem.
+2. Styret kan supplere seg selv ved å velge et nytt konstituert styremedlem utenfor
+styret.
+
+(konstituert: et midlertidig medlem som sitter til neste generalforsamling eller ekstraordinær
+generalforsamling)
+
+Hvis noen av styre trer av kan styre gjøre en av de to forslagene overfor frem til neste
+generalforsamling eller ekstraordinær generalforsamling .
 
 ### §8 Styret
 Ditio består av et styre på 8 personer. 80% av styret må være semesterregistrerte
