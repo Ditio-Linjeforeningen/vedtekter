@@ -1,13 +1,19 @@
 
 # VEDTEKTER FOR Ditio - linjeforening
-Innhold sist revidert [25.09.25]
+Innhold sist revidert [14.04.26]
 
 ### §1 Foreningens navn
-Foreningens navn er Ditio - linjeforening, videre kalt Ditio.
+Foreningens navn er Ditio - linjeforening, videre kalt Ditio.\
+Foreningen har e-postadresse: kontakt@ditio.org\
+Foreningens adresse er: Pilestredet 35, 0166 Oslo
 
 ### §2 Formål
 Ditio sitt formål å være en sosial og faglig forening for foreningens medlemmer, som
 er studentene ved institutt IT ved fakultet for TKD på OsloMet og andre interessenter.
+
+Ditio’s purpose is to be a social and academic association for its members, primarily
+students at the Department of IT at the Faculty of Technology, Art and Design at OsloMet, as
+well as other interested parties.
 
 ### §3 Organisasjonsform
 Ditio er en frivillig studentorganisasjon og ble stiftet 06.06.2025.\
@@ -125,6 +131,9 @@ Styret har mulighet til å opprette egne komiteer med formål å løse oppgaver 
 av styret. Hver komité skal ha en dedikert kontaktperson i styret, som igjen har
 ansvaret for å orientere resten av styret om aktivitetene til komiteen.
 
+Opprettelse av komiteer eller samarbeid med andre organisasjoner påvirker ikke foreningens
+juridiske og demokratiske selvstendighet.
+
 ### §9.1 Opprettelse av komiteer
 Styret velger selv hvilke komiteer de ønsker å opprette og hva hver enkelt komité sitt
 formål og oppgaver er. Forslag om opprettelse av komité skal godkjennes ved
@@ -189,6 +198,10 @@ Foreningen kan oppløses ved at 2/3 av de stemmeberettigede medlemmene på
 generalforsamlingen stemmer for oppløsning. Sak om oppløsning må være meldt inn
 til ordinære saksfrister i forkant av generalforsamlingen. Ved opphør vil foreningens
 midler og eiendeler bli gitt til en annen egnet studentforening med samme formål,
-som generalforsamlingen bestemmer.
+som generalforsamlingen bestemmer. Dette skal skje i tråd med norsk lov, forskrifter og gjeldende
+regelverk ved OsloMet og SiO.
 
 Ingen medlemmer har krav på foreningens midler eller andel av disse.
+
+Ved avvikling plikter foreningen å melde fra til relevante myndigheter og
+samarbeidspartnere, herunder Brønnøysundregistrene, SiO og OsloMet.
